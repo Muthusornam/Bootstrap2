@@ -1,0 +1,75 @@
+.boxed{
+    height: 24cm;
+    width: 20cm;
+    border: 1px solid black;
+    margin: 20px 100px 0px 100px;
+}
+#star{
+    color: red;
+}
+.checked {
+    color: orange;
+  }
+  .review{
+      font-weight: lighter;
+      font-size: smaller;
+  }
+  #purchase{
+      background-color: rgb(211, 211, 211,0.5);
+      border-radius: 5px;
+      font-weight: lighter;
+      font-size: smaller;
+      align-items: center;
+      display: inline-flexbox;
+      flex-direction: row;
+      
+  }
+#service{
+    
+    border-radius: 5px;
+    font-weight: lighter;
+    font-size: smaller;
+    display: inline-flexbox;
+      flex-direction: row;
+      
+}
+#company{
+    background-color: rgb(211, 211, 211,0.5);
+    border-radius: 5px;
+    font-weight: lighter;
+    font-size: 77%;
+    display: inline-flexbox;
+      flex-direction: row;
+      
+}
+#buy{
+    background-color: rgb(211, 211, 211,0.5);
+    border-radius: 5px;
+    font-weight: lighter;
+    font-size: smaller;
+    align-items: center;
+    display: inline-flexbox;
+    flex-direction: row;
+    
+}
+#product{
+  
+  border-radius: 5px;
+  font-weight: lighter;
+  font-size: smaller;
+  display: inline-flexbox;
+    flex-direction: row;
+    
+}
+#others{
+  background-color: rgb(211, 211, 211,0.5);
+  border-radius: 5px;
+  font-weight: lighter;
+  font-size: smaller;
+  display: inline-flexbox;
+    flex-direction: row;
+    
+}
+label{
+    font-weight: bold;
+}
